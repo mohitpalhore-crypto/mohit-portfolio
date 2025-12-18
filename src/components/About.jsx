@@ -20,13 +20,13 @@ const About = () => {
             </p>
             <div className="about-details">
               <div className="detail-item">
-                <strong>Name:</strong> Mohit Palor
+                <strong>Name:</strong> Mohit palhore
               </div>
               <div className="detail-item">
                 <strong>Location:</strong> India
               </div>
               <div className="detail-item">
-                <strong>Email:</strong> mohit.palor@example.com
+                <strong>Email:</strong> palhoreatul999@gmail.com
               </div>
               <div className="detail-item">
                 <strong>Education:</strong> Bachelor's in Computer Science
